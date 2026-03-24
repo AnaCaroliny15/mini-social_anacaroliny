@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #fffdfd;
+  background-color: #e9aadb;
   color: #ffffff;
 }
 
@@ -49,11 +49,11 @@ header {
 
 .name {
   font-weight: bold;
-  color: #ff00c8;
+  color: #770a5f;
 }
 
 .username {
-  color: #740c51;
+  color: #7c0d6a;
   margin-left: 5px;
 }
 
@@ -75,11 +75,11 @@ button {
 }
 
 button:hover {
-  background-color: #2e5c40;
+  background-color: #ff00bf;
 }
 
 .comments {
-  border-top: 1px solid #1f3d2b;
+  border-top: 1px solid #ff00d4;
   padding-top: 15px;
 }
 
