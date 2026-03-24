@@ -8,7 +8,7 @@ body {
 header {
   text-align: center;
   padding: 20px;
-  border-bottom: 1px solid #f300b6;
+  border-bottom: 1px solid #ff00bf;
 }
 
 .logo {
@@ -53,7 +53,7 @@ header {
 }
 
 .username {
-  color: #7a0a55;
+  color: #740c51;
   margin-left: 5px;
 }
 
@@ -66,7 +66,7 @@ header {
 }
 
 button {
-  background-color: #6d0965;
+  background-color: #700a68;
   color: #fff;
   border: none;
   padding: 8px 15px;
